@@ -10,7 +10,9 @@
 5. jika kedua kondisi salah, maka Bilangan ke-3 adalah Bilangan Terbesar
 6. FlowChart
 <img width="326" alt="image" src="https://github.com/user-attachments/assets/c94e04b6-0f39-4d27-85bb-a90abd4803ae">
+
 7. Program:
 <img width="495" alt="image" src="https://github.com/user-attachments/assets/a25ff1ce-3675-48ad-9fd4-3998c9f493e6">
+
 8. Output :
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/2e671e0b-25df-4a4e-b4bf-532eaf34680a">
